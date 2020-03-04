@@ -1,6 +1,6 @@
 # IncomePerCapita-Regression-Project
 
-Analysis on IncomePerCapita 
+Analysis on IncomePerCapita based on county in the United States
 
 ### Project Members
    - <b>[Akshay Indusekar](https://github.com/aindusekar)</b>
@@ -18,7 +18,7 @@ In the United States, many factors affect income per capita in counties which ar
 
 
 ### Data
-acs2017_county_data.csv 
+acs2017_census_tract_data.csv 
 
 The data was collected by the US Census Bureau and is publically available to use. It includes variables that potentially relate to income per capita in counties or functional equivalents in the United States. 
 
