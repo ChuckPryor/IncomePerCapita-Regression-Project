@@ -37,4 +37,6 @@ The assumptions of regression modeling were checked prior to model development a
 #### Technical Notebook
 <b>[Technical Notebook](https://github.com/aindusekar/IncomePerCapita-Regression-Project/blob/master/IncomePerCap.ipynb)</b>
 
+#### Library Imports
+<b>[Library Imports Python File](https://github.com/aindusekar/IncomePerCapita-Regression-Project/blob/master/libimport.py)</b>
 
