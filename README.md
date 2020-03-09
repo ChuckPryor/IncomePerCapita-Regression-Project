@@ -28,7 +28,6 @@ The data was collected by the US Census Bureau and is publically available to us
 A regression model was developed to primarily explore the relationships between the independent variables of poverty rate, production, office, service, construction and professional jobs and the dependent variable income per capita based on a county in the United States.
 The assumptions of regression modeling were checked prior to model development and included development of Pearson's R correlation heatmap, residual plots, exploration of variance inflation factors, Box-Cox transformation to assist with normalizing the relationship beween the dependent and independent variables. Prior to this, null values, duplicate values and outliers were purged from the dataset.
 
--
 
 ### Project Links
 
@@ -36,6 +35,6 @@ The assumptions of regression modeling were checked prior to model development a
 <b>[Presentation Slides](https://github.com/aindusekar/IncomePerCapita-Regression-Project/blob/master/Income%20Per%20Capita%20Regression%20Project.pdf)</b>
 
 #### Technical Notebook
-- .ipynb
+<b>[Technical Notebook]https://github.com/aindusekar/IncomePerCapita-Regression-Project/blob/master/IncomePerCap.ipynb</b>
 
-#### Working Notebooks
+
